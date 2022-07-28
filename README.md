@@ -1,2 +1,2 @@
-# 1
+# sintakday3
 Created with CodeSandbox
